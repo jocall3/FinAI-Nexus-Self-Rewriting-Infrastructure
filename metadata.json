@@ -1,0 +1,7 @@
+{
+  "name": "FinAI Nexus: Self-Rewriting Infrastructure",
+  "description": "A high-fidelity dashboard for a self-evolving financial ecosystem, integrating AI-driven code generation, programmable token rails, and real-time settlement monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
